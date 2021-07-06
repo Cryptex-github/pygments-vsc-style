@@ -20,7 +20,7 @@ class VscStyle(Style):
         Name.Variable: "#9fb4c3",
         Name.Builtins: "#4EC9B0",
         Name.Constant: "#9fb4c3",
-        Keyword: "italic bold #569CD6",
+        Keyword: "bold #569CD6",
         Generic: "#D4D4D4",
         Generic.Emph: "italic",
         Generic.Strong: "bold",
