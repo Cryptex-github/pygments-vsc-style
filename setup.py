@@ -7,7 +7,7 @@ setup(
     project_urls={
         "Issue tracker": "https://github.com/Cryptex-github/pygments-vsc-style/issues",
     },
-    version="0.0.1",
+    version="0.0.2",
     packages=[
         "pygments_vsc_style"
     ],
